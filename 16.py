@@ -1,7 +1,7 @@
 from pygame import *
 
 #Настройки окна
-
+#Пример редактирования
 window = display.set_mode((700,500))
 display.set_caption("Догонялки")
 FPS = 60
